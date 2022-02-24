@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Textový výpis do konzole");
 
-        System.out.println("Přidán další výpis, tentokát z IntelliJ");
+        System.out.println("Přidán další výpis, tentokát z IntelliJ, upraveny na GITHUBu");
 
 
     }
